@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.*;
 import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 import java.util.Scanner;
-
+//test jenkins
 @Controller
 @EnableAutoConfiguration
 public class SampleController {
