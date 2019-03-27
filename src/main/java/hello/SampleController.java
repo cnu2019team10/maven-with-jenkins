@@ -7,6 +7,8 @@ import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 import java.util.Scanner;
 
+// hello for request merge
+
 @Controller
 @EnableAutoConfiguration
 public class SampleController {
