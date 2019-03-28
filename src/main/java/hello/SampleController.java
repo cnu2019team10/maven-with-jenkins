@@ -7,6 +7,8 @@ import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 import java.util.Scanner;
 
+// for request trigger
+
 @Controller
 @EnableAutoConfiguration
 public class SampleController {
